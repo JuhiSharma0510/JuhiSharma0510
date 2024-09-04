@@ -1,2 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on an OCR Project
+👯 I’m looking to collaborate on Deep Learning Projects
+🤝 I’m looking for help with advanced AI/ML concepts
+🌱 I’m currently learning Generative AI
+💬 Ask me about AI, Machine Learning, and Mathematics
+⚡ Fun fact: I love solving complex math problems!
